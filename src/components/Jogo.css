@@ -1,0 +1,16 @@
+.btn-emoji{
+    background-color: turquoise;
+    font-size: 550px;
+    align-items: center;
+}   
+
+.p-emoji{
+    font-size: 300px;
+}
+
+.Jogo{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
